@@ -113,11 +113,17 @@ This enables faster deployment, better optimization, and reliable performance.
 What You Can Do With Code 11
 
 **Content:**
-- Launch VAS services faster  
-- Improve subscription conversion rates  
-- Reduce billing failures and churn  
-- Gain full visibility into performance  
-- Scale without rebuilding systems  
+We build and power VAS and subscription services from the ground up.
+
+Our capabilities include:
+
+- End-to-end service development  
+- Campaign optimization systems  
+- Subscription and billing infrastructure  
+- Telco integration layers  
+- Real-time analytics and reporting  
+
+Everything required to launch, operate, and scale a VAS business.
 
 ---
 
@@ -127,10 +133,17 @@ What You Can Do With Code 11
 We Don’t Just Build — We Operate
 
 **Content:**
-- We run VAS platforms ourselves  
-- We understand revenue, not just code  
-- Our systems are tested in real market conditions  
-- We optimize continuously  
+With Code 11, you can:
+
+- Build and launch new VAS services  
+- Improve subscription conversion rates  
+- Reduce billing failures and churn  
+- Gain full visibility into performance  
+- Scale without rebuilding systems
+
+We don’t just build systems — we build and operate services.
+
+This gives us a deeper understanding of what drives performance, revenue, and growth in real-world environments.
 
 **Closing Line:**
 We are partners in growth, not just vendors.
