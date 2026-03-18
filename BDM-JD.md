@@ -117,7 +117,7 @@ Generate and close high-value deals by connecting Code 11’s infrastructure cap
 
 ## Compensation Structure
 
-- Base Salary: ₦300,000 – ₦600,000/month  
+- Base Salary:TBD  
 - Commission: 5% – 10% of closed deals  
 
 ---
